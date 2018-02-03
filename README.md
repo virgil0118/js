@@ -1,2 +1,1 @@
-# js
-javascript study
+/*This is a master branch.*/
